@@ -56,16 +56,22 @@ pip install -r requirements.txt
 # 4. Run the training script
 python churn_ann.py
 
-📈 Results
+--- 
+
+# 📈 Results
 - Achieved ~80–85% accuracy on test data
 - Improved prediction after feature scaling
 - Reliable for initial churn detection pipelines
+
+--- 
 
 # 📌 Future Improvements
  - Add model interpretability (SHAP/LIME)
  - Convert to Streamlit dashboard
  - Support deployment as REST API
 - Integrate with customer CRM datasets
+
+---
 
 # 🙌 Author
 Built by Kuntal Vyas
