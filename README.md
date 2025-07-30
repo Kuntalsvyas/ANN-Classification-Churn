@@ -42,19 +42,19 @@ Customer churn is a major issue in subscription-based businesses. This project a
 
 ## 🧑‍💻 Installation
 
-# 1. Clone the repo
-git clone https://github.com/Kuntalsvyas/ANN-Classification-Churn.git
-cd ANN-Classification-Churn
+**1. Clone the repo** 
+- git clone https://github.com/Kuntalsvyas/ANN-Classification-Churn.git
+- cd ANN-Classification-Churn
 
-# 2. Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # For Windows: venv\Scripts\activate
+**2. Create a virtual environment**
+- python -m venv venv
+- source venv/bin/activate  # For Windows: venv\Scripts\activate
 
-# 3. Install dependencies
-pip install -r requirements.txt
+**3. Install dependencies**
+- pip install -r requirements.txt
 
-# 4. Run the training script
-python churn_ann.py
+**4. Run the training script**
+- python churn_ann.py
 
 --- 
 
